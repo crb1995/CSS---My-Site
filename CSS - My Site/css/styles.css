@@ -1,0 +1,42 @@
+/* Begin Here */
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background: #f2f4d1;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background: #b2d3be;
+}
+
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background: #89a3b2;
+}
+
+.underline {
+  text-decoration: underline;
+}
